@@ -1,0 +1,4 @@
+com\feedfood\api\ApiApplication.class
+com\feedfood\api\repositories\ProductRepository.class
+com\feedfood\api\models\Product.class
+com\feedfood\api\ProductController.class
