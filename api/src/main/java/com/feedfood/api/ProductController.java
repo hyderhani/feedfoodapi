@@ -18,7 +18,7 @@ import com.feedfood.api.repositories.ProductRepository;
 
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
-@RequestMapping("/product")
+@RequestMapping("/recipientProduct")
 public class ProductController {
 	
 	@Autowired
